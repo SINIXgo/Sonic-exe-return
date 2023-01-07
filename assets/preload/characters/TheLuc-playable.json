@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "TheLuc idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "TheLuc up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "TheLuc down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "TheLuc left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "TheLuc right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TheLuc",
+	"position": [
+		-1830,
+		-1660
+	],
+	"healthicon": "luc",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		193,
+		77
+	],
+	"camera_position": [
+		-1170,
+		950
+	],
+	"sing_duration": 4,
+	"scale": 0.500000000000005
+}

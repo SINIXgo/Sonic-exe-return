@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "fleetway idle"
+		},
+		{
+			"offsets": [
+				220,
+				90
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "fleetway laugh"
+		},
+		{
+			"offsets": [
+				130,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fleetway right"
+		},
+		{
+			"offsets": [
+				390,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fleetway left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				80
+			],
+			"anim": "WHAT",
+			"fps": 20,
+			"name": "fleetway what",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "fleetway down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "fleetway r-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				80
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "fleetway up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				90
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "fleetway ah",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "animf",
+			"indices": [],
+			"name": "fleetway animfinal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				92
+			],
+			"anim": "anim1",
+			"fps": 25,
+			"name": "fleetway anim1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fleetway",
+	"position": [
+		-160,
+		-420
+	],
+	"healthicon": "fleetway",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		202,
+		0
+	],
+	"camera_position": [
+		-250,
+		-370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

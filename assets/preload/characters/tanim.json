@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "anim1",
+			"loop": false,
+			"name": "tanim anim1"
+		},
+		{
+			"offsets": [
+				0,
+				-23
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "anim2",
+			"loop": false,
+			"name": "tanim anim2"
+		},
+		{
+			"offsets": [
+				0,
+				-28
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "anim3",
+			"loop": false,
+			"name": "tanim anim3"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tanim",
+	"position": [
+		-390,
+		-290
+	],
+	"healthicon": "normalt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		100
+	],
+	"camera_position": [
+		-290,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 1.55
+}

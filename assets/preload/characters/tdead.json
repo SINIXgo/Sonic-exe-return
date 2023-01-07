@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tdead-idle"
+		},
+		{
+			"offsets": [
+				-66,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tdead-right"
+		},
+		{
+			"offsets": [
+				250,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tdead-left"
+		},
+		{
+			"offsets": [
+				-40,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tdead-down"
+		},
+		{
+			"offsets": [
+				60,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tdead-up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tails-soul",
+	"position": [
+		50,
+		-10
+	],
+	"healthicon": "td",
+	"flip_x": false,
+	"healthbar_colors": [
+		62,
+		62,
+		62
+	],
+	"camera_position": [
+		180,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

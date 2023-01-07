@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				81,
+				-121
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NEIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-169
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NELeftNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-202
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NEDownNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NEUpNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-130
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NERightNote",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				107,
+				-169
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "NELeftNote",
+			"indices": [
+				1,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				-202
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "NEDownNote",
+			"indices": [
+				1,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				60,
+				-128
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "NERightNote",
+			"indices": [
+				1,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				144,
+				-7
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "NEUpNote",
+			"indices": [
+				1,
+				3
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fake-tse-sonicexe",
+	"position": [
+		80,
+		-40
+	],
+	"healthicon": "tooslow",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		127,
+		255
+	],
+	"camera_position": [
+		-80,
+		230
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

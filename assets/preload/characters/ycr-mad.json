@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				187
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleYCR"
+		},
+		{
+			"offsets": [
+				199,
+				132
+			],
+			"loop": false,
+			"fps": 38,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftYCR"
+		},
+		{
+			"offsets": [
+				12,
+				301
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpYCR"
+		},
+		{
+			"offsets": [
+				121,
+				60
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownYCR"
+		},
+		{
+			"offsets": [
+				-15,
+				158
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightYCR"
+		},
+		{
+			"offsets": [
+				-72,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "LaughYCR"
+		},
+		{
+			"offsets": [
+				304,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Scream",
+			"indices": [],
+			"name": "GrahYCR"
+		},
+		{
+			"offsets": [
+				-14,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dialogue",
+			"indices": [],
+			"name": "JustDieYCRangry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YCRangry",
+	"position": [
+		-30,
+		280
+	],
+	"healthicon": "ycr-pissy",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		-90,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleBFENcore"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dowebfencore"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 41,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dowsFailbfencore"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upbfencore"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upFailbfencore"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "leftFailbfencore"
+		},
+		{
+			"offsets": [
+				-16,
+				0
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rightFailbfencore"
+		},
+		{
+			"offsets": [
+				-16,
+				0
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rihgbfencore"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leftbfencore"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BfEncorePixel",
+	"position": [
+		-560,
+		380
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-130,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 8.99999999999999
+}
