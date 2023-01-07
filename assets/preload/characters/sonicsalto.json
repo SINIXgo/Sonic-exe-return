@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "",
+			"loop": true,
+			"name": ""
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "sonicJump idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonicJump",
+	"position": [
+		-50,
+		47
+	],
+	"healthicon": "sonicp",
+	"flip_x": true,
+	"healthbar_colors": [
+		107,
+		107,
+		209
+	],
+	"camera_position": [
+		-420,
+		440
+	],
+	"sing_duration": 7.89999999999999,
+	"scale": 0.7
+}

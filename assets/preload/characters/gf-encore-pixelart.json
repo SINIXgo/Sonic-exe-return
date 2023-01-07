@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gfencore"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gfpixelencore",
+	"position": [
+		560,
+		540
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		10,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 9.89999999999998
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				1220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "danceleft"
+		},
+		{
+			"offsets": [
+				-71,
+				1238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "danceright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-encore-xd",
+	"position": [
+		-680,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				31,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hog-jiji",
+	"position": [
+		-130,
+		80
+	],
+	"healthicon": "hog",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		45,
+		166
+	],
+	"camera_position": [
+		140,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

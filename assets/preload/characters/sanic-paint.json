@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				180,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-64,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-144,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				7
+			],
+			"anim": "anim1",
+			"fps": 18,
+			"name": "sanictooslow",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "L-alt"
+		},
+		{
+			"offsets": [
+				0,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "U-alt"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "r-alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				-237
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "D-alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/paint-sanic",
+	"position": [
+		310,
+		650
+	],
+	"healthicon": "sanic",
+	"flip_x": false,
+	"healthbar_colors": [
+		71,
+		88,
+		212
+	],
+	"camera_position": [
+		-60,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

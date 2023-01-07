@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "X-IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "X-DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "X-RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "X-LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				262
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "X-UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEW-X -SLAYBELLS",
+	"position": [
+		-350,
+		-360
+	],
+	"healthicon": "soylent",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		120,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

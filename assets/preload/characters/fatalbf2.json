@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "fatalbf3 idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fatalbf3 left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fatalbf3 up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fatalbf3 down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fatalbf3 right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fatalbf3",
+	"position": [
+		-1280,
+		-200
+	],
+	"healthicon": "bf-furry-fe",
+	"flip_x": true,
+	"healthbar_colors": [
+		79,
+		164,
+		234
+	],
+	"camera_position": [
+		-450,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 0.699999999999999
+}

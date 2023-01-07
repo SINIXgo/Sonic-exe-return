@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-340
+			],
+			"anim": "idle",
+			"fps": 60,
+			"name": "Símbolo 2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/risaEgmanlisto",
+	"position": [
+		162,
+		-380.5
+	],
+	"healthicon": "starved-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		36,
+		0
+	],
+	"camera_position": [
+		-30,
+		345
+	],
+	"sing_duration": 6.1,
+	"scale": 4.80000000000001
+}

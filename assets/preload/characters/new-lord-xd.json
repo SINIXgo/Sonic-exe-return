@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				74,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "X-DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "X-IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				163,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "X-LAUGH"
+		},
+		{
+			"offsets": [
+				-100,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "X-RIGHT"
+		},
+		{
+			"offsets": [
+				225,
+				-36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "X-LEFT"
+		},
+		{
+			"offsets": [
+				190,
+				199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "X-UP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/NEW-X",
+	"position": [
+		-350,
+		-200
+	],
+	"healthicon": "soylent",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		180,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

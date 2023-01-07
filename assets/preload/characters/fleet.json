@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				130
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fleetway up"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fleetway down"
+		},
+		{
+			"offsets": [
+				-260,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "fleetway idle"
+		},
+		{
+			"offsets": [
+				-130,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fleetway right"
+		},
+		{
+			"offsets": [
+				130,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fleetway left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fleetway",
+	"position": [
+		-570,
+		-100
+	],
+	"healthicon": "fleetway",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		209,
+		0
+	],
+	"camera_position": [
+		100,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

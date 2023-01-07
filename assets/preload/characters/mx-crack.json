@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "mx-crack idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "mx-crack up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "mx-crack right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "mx-crack left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "mx-crack DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "mx-crack d-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "x what",
+			"indices": [],
+			"name": "mx-crack x waht"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "q",
+			"fps": 1,
+			"name": "mx-crack que",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "wtf",
+			"fps": 12,
+			"name": "mx-crack WTF",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mx-crack",
+	"position": [
+		-3520,
+		-370
+	],
+	"healthicon": "soylent",
+	"flip_x": true,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		-300,
+		-700
+	],
+	"sing_duration": 6,
+	"scale": 1.2
+}

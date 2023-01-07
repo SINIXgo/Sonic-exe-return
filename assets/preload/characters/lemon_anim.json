@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "anim"
+		},
+		{
+			"offsets": [
+				236,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				12,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-91,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-105,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Símbolo 2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lemon",
+	"position": [
+		520,
+		910
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-630,
+		-2300
+	],
+	"sing_duration": 6,
+	"scale": 5.5
+}

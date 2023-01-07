@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "anim"
+		},
+		{
+			"offsets": [
+				236,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				12,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-91,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-105,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 36,
+			"name": "tumba0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lemon-rip",
+	"position": [
+		330,
+		180
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-260,
+		-260
+	],
+	"sing_duration": 0.100000000000005,
+	"scale": 3
+}

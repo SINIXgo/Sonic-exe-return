@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-39,
+				183
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MajinIdle"
+		},
+		{
+			"offsets": [
+				-166,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MajinRight"
+		},
+		{
+			"offsets": [
+				220,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MajinLeft"
+		},
+		{
+			"offsets": [
+				45,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MajinDown"
+		},
+		{
+			"offsets": [
+				73,
+				269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MajinUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Majin-toon-R",
+	"position": [
+		-120,
+		310
+	],
+	"healthicon": "majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		15,
+		255
+	],
+	"camera_position": [
+		-10,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

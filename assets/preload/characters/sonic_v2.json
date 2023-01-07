@@ -1,0 +1,121 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonic_v2 idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "eh",
+			"fps": 24,
+			"name": "sonic_v2 eh",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt_idle",
+			"fps": 24,
+			"name": "sonic_v2 alt",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "talk 2",
+			"fps": 24,
+			"name": "sonic_v2 talk",
+			"indices": [
+				1,
+				2,
+				3,
+				1,
+				2,
+				3,
+				1,
+				2,
+				3,
+				1,
+				2,
+				3,
+				1,
+				2,
+				3,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "smoke",
+			"fps": 24,
+			"name": "sonic_v2 smoke",
+			"indices": [
+				1,
+				2,
+				3,
+				1,
+				2,
+				3,
+				1,
+				2,
+				3,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "talk 1",
+			"indices": [],
+			"name": "sonic_v2 talk"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonic_v2",
+	"position": [
+		280,
+		370
+	],
+	"healthicon": "sonicp",
+	"flip_x": true,
+	"healthbar_colors": [
+		108,
+		108,
+		216
+	],
+	"camera_position": [
+		-40,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 5
+}

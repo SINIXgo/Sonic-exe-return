@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "Sonic idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "Sonic left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				29
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "Sonic down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-8,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "Sonic right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				14,
+				17
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "Sonic Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sonicllamando",
+	"position": [
+		250,
+		390
+	],
+	"healthicon": "Sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		110,
+		107,
+		209
+	],
+	"camera_position": [
+		-60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 4.4
+}

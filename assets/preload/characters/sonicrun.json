@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonicRUN idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sonicRUN down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "sonicRUN up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "speak",
+			"fps": 24,
+			"name": "sonicRUN speak",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "jump",
+			"fps": 18,
+			"name": "sonicRUN jump",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "sonicRUN left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "sonicRUN right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				103,
+				132
+			],
+			"anim": "shit",
+			"fps": 10,
+			"name": "sonicRUN shit...",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonicRUN",
+	"position": [
+		-250,
+		-130
+	],
+	"healthicon": "sonicp",
+	"flip_x": true,
+	"healthbar_colors": [
+		107,
+		107,
+		209
+	],
+	"camera_position": [
+		-420,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

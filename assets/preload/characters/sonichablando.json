@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "Sonic idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sonichablando",
+	"position": [
+		250,
+		390
+	],
+	"healthicon": "Sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		110,
+		107,
+		209
+	],
+	"camera_position": [
+		-60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 4.4
+}

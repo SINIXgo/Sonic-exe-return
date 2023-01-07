@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-112
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "XmasMajinDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "XmasMajinIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				-160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "XmasMajinLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "XmasMajinRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "XmasMajinUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SlayBellsMajin",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

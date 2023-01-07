@@ -1,0 +1,45 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -9
+      ],
+      "anim": "danceLeft",
+      "fps": 12,
+      "name": "gf-chaotix danceleft",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -9
+      ],
+      "anim": "danceRight",
+      "fps": 12,
+      "name": "gf-chaotix danceright",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": true,
+  "image": "characters/gf-chaotix",
+  "position": [
+    -750,
+    -170
+  ],
+  "healthicon": "gf",
+  "flip_x": false,
+  "healthbar_colors": [
+    165,
+    0,
+    77
+  ],
+  "camera_position": [
+    -250,
+    290
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

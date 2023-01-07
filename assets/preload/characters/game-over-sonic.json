@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gameOversonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gameOversonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gameOversonic up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gameOversonic right"
+		},
+		{
+			"offsets": [
+				-119,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gameOversonic left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameoversonic",
+	"position": [
+		220,
+		-130
+	],
+	"healthicon": "game-over",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		91,
+		156
+	],
+	"camera_position": [
+		-30,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

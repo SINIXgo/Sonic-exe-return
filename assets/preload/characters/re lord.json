@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "re-lord u-alt"
+		},
+		{
+			"offsets": [
+				-1190,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "re-lord left"
+		},
+		{
+			"offsets": [
+				-560,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "re-lord down"
+		},
+		{
+			"offsets": [
+				560,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "re-lord UP"
+		},
+		{
+			"offsets": [
+				1090,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "re-lord right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "re-lord idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/re-lord",
+	"position": [
+		-2000,
+		-310
+	],
+	"healthicon": "soylent",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		450,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

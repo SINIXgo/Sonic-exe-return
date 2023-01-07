@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "fatal-error-phase1-bytheluc idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fatal-error-phase1-bytheluc left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fatal-error-phase1-bytheluc up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fatal-error-phase1-bytheluc down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fatal-error-phase1-bytheluc right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fatal-error-phase1-bytheluc",
+	"position": [
+		-350,
+		-140
+	],
+	"healthicon": "sOn!c",
+	"flip_x": false,
+	"healthbar_colors": [
+		21,
+		68,
+		204
+	],
+	"camera_position": [
+		120,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 0.699999999999999
+}

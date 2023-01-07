@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				58
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				69
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSU",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSR",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-37,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IDLE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf-paint",
+	"position": [
+		200,
+		460
+	],
+	"healthicon": "bf-tf",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		221,
+		234
+	],
+	"camera_position": [
+		170,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}
