@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scorebg.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scorebg0000" x="0" y="0" width="436" height="355" frameX="-4" frameY="0" frameWidth="440" frameHeight="355"/>
+	<SubTexture name="scorebg0001" x="436" y="0" width="440" height="355"/>
+</TextureAtlas>
