@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-66,
+				-15
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Eggman idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "Eggman left"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				2,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "Eggman down"
+		},
+		{
+			"offsets": [
+				3,
+				12
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "Eggman up"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				2,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "Eggman right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-20
+			],
+			"anim": "Ha",
+			"fps": 12,
+			"name": "Eggman jeje",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-67,
+				-17
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "risa",
+			"indices": [],
+			"name": "Eggman jeje"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Eggman",
+	"position": [
+		780,
+		130
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		40,
+		0
+	],
+	"camera_position": [
+		-400,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 3.99999999999999
+}

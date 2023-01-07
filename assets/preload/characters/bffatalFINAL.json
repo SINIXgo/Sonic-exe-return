@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "bf-fatal-final up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "bf-fatal-final right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "bf-fatal-final down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf-fatal-final idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "bf-fatal-final left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf-fatal-final",
+	"position": [
+		-1019,
+		-240
+	],
+	"healthicon": "bf-furry-fe",
+	"flip_x": true,
+	"healthbar_colors": [
+		79,
+		164,
+		234
+	],
+	"camera_position": [
+		-430,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "exe-peace-bytheluc left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "exe-peace-bytheluc idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "exe-peace-bytheluc down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "exe-peace-bytheluc right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "exe-peace-bytheluc up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/exe-peace-bytheluc",
+	"position": [
+		-390,
+		-760
+	],
+	"healthicon": "exe-peace",
+	"flip_x": true,
+	"healthbar_colors": [
+		10,
+		5,
+		116
+	],
+	"camera_position": [
+		10,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 1.05
+}

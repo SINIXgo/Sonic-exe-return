@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-79,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "egg-down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "egg-idle"
+		},
+		{
+			"offsets": [
+				-60,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "egg-right"
+		},
+		{
+			"offsets": [
+				330,
+				271
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "egg-left"
+		},
+		{
+			"offsets": [
+				10,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "egg-up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deadeggman",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "dick",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		190,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

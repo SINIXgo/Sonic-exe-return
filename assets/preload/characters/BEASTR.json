@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "XENO-IDLE"
+		},
+		{
+			"offsets": [
+				580,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "XENO-RIGHT"
+		},
+		{
+			"offsets": [
+				118,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "XENO-LEFT"
+		},
+		{
+			"offsets": [
+				47,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "XENO-DOWN"
+		},
+		{
+			"offsets": [
+				35,
+				112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "XENO-UP"
+		},
+		{
+			"offsets": [
+				176,
+				-243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "XENO-LAUGH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xenophase",
+	"position": [
+		1050,
+		-260
+	],
+	"healthicon": "beast",
+	"flip_x": true,
+	"healthbar_colors": [
+		41,
+		6,
+		117
+	],
+	"camera_position": [
+		-560,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

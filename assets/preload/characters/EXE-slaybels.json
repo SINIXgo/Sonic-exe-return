@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				249
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Exe Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				59
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Exe Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				196
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Exe Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				370
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Exe Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				326,
+				263
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Exe left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EXE-faker-slaybells",
+	"position": [
+		-210,
+		-100
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		138
+	],
+	"camera_position": [
+		-250,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

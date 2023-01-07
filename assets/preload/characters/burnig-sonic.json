@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-69,
+				-23
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "idle burnigsonic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				73
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "down burnigsonic",
+			"indices": [
+				1,
+				2,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "left burnigsonic",
+			"indices": [
+				1,
+				2,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-23
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "up burnigsonic",
+			"indices": [
+				1,
+				2,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				-86,
+				-23
+			],
+			"indices": [
+				1,
+				2,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 60,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right burnigsonic"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/burnig-sonic",
+	"position": [
+		-10,
+		530
+	],
+	"healthicon": "SB",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		135,
+		135
+	],
+	"camera_position": [
+		80,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}

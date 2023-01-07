@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fake-educator idle"
+		},
+		{
+			"offsets": [
+				4,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fake-educator left"
+		},
+		{
+			"offsets": [
+				0,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fake-educator down"
+		},
+		{
+			"offsets": [
+				-11,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fake-educator up"
+		},
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fake-educator right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fake-educator",
+	"position": [
+		-1810,
+		-640
+	],
+	"healthicon": "snoc",
+	"flip_x": false,
+	"healthbar_colors": [
+		9,
+		4,
+		0
+	],
+	"camera_position": [
+		1030,
+		620
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

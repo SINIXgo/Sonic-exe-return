@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-680,
+				-63
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "faker-ts-sonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				424,
+				-102
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "faker-ts-sonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				970,
+				-86
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "faker-ts-sonic right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-760,
+				-83
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "faker-ts-sonic left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				-80
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "faker-ts-sonic idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/faker-ts-sonic",
+	"position": [
+		-1850,
+		-340
+	],
+	"healthicon": "faker-ts",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		127,
+		255
+	],
+	"camera_position": [
+		750,
+		340
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

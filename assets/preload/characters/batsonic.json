@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "batsonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "batsonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "batsonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "batsonic right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "batsonic left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/batsonic",
+	"position": [
+		-50,
+		-50
+	],
+	"healthicon": "bs-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		1,
+		228
+	],
+	"camera_position": [
+		-150,
+		-370
+	],
+	"sing_duration": 6,
+	"scale": 1.4
+}

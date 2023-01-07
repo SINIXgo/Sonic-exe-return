@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf-chaotix idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf-chaotix left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf-chaotix up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf-chaotix down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bf-chaotix right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf-chaotix",
+	"position": [
+		-1850,
+		-100
+	],
+	"healthicon": "bfchao",
+	"flip_x": true,
+	"healthbar_colors": [
+		1,
+		0,
+		153
+	],
+	"camera_position": [
+		-660,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "chaotix bf dead confirm"
+		},
+		{
+			"offsets": [
+				-30,
+				-11
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "chaotix bf death loop"
+		},
+		{
+			"offsets": [
+				-26,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "chaotix bf dies"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/chaotix_bf_death",
+	"position": [
+		0,
+		485
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		90,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 7.99999999999999
+}

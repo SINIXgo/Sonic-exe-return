@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "amy-dead up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "amy-dead idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "amy-dead down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "amy-dead right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "amy-dead left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "atack",
+			"fps": 21,
+			"name": "amy-dead atack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amy-dead",
+	"position": [
+		-250,
+		-550
+	],
+	"healthicon": "amyd",
+	"flip_x": false,
+	"healthbar_colors": [
+		184,
+		116,
+		116
+	],
+	"camera_position": [
+		-320,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

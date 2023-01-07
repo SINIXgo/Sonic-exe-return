@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EXE-IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EXE-RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				113,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EXE-LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EXE-UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-42,
+				-184
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "EXE-DOWN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/exe-slaybells",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonicexe",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		85,
+		142
+	],
+	"camera_position": [
+		-10,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

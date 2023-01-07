@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "fatal-gf-bytheluc danceleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "fatal-gf-bytheluc danceright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fatal-gf-bytheluc",
+	"position": [
+		-1650,
+		-450
+	],
+	"healthicon": "fatal-sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		330,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

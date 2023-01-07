@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				127255.813953488,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"FrontViewSl4sh"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-fatal-small"
+					]
+				]
+			],
+			[
+				128236.046511628,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			]
+		]
+	}
+}

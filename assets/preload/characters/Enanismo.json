@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing note LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing note RIGHT"
+		},
+		{
+			"offsets": [
+				-5,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sing note DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Enanismo",
+	"position": [
+		-240,
+		-20
+	],
+	"healthicon": "enanismo",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		56,
+		255
+	],
+	"camera_position": [
+		140,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

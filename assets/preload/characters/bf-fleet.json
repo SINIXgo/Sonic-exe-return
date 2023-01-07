@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				375,
+				670
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				373,
+				723
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up"
+		},
+		{
+			"offsets": [
+				410,
+				450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				289,
+				653
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				652
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fleetway_boyfriend",
+	"position": [
+		200,
+		240
+	],
+	"healthicon": "bf-fleet",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		0,
+		152
+	],
+	"camera_position": [
+		40,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}
