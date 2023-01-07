@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="burning-stage.png"><SubTexture name="burning-stage dance0000" x="0" y="0" width="2820" height="1552" frameX="0" frameY="0" frameWidth="2820" frameHeight="1552" />
+<SubTexture name="burning-stage dance0001" x="2820" y="0" width="2820" height="1552" frameX="0" frameY="0" frameWidth="2820" frameHeight="1552" />
+<SubTexture name="burning-stage dance0002" x="0" y="1552" width="2820" height="1552" frameX="0" frameY="0" frameWidth="2820" frameHeight="1552" />
+<SubTexture name="burning-stage dance0003" x="2820" y="1552" width="2820" height="1552" frameX="0" frameY="0" frameWidth="2820" frameHeight="1552" />
+<SubTexture name="burning-stage dance0004" x="0" y="3104" width="2820" height="1552" frameX="0" frameY="0" frameWidth="2820" frameHeight="1552" />
+<SubTexture name="burning-stage dance0005" x="2820" y="3104" width="2820" height="1552" frameX="0" frameY="0" frameWidth="2820" frameHeight="1552" />
+</TextureAtlas>

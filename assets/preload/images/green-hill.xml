@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="green-hill.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg_gif0000" x="0" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0001" x="0" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0002" x="0" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0003" x="320" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0004" x="320" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0005" x="320" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0006" x="640" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0007" x="640" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0008" x="640" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0009" x="0" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0010" x="0" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0011" x="0" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0012" x="320" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0013" x="320" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0014" x="320" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0015" x="640" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0016" x="640" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0017" x="640" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0018" x="640" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0019" x="640" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0020" x="640" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0021" x="0" y="448" width="320" height="224"/>
+	<SubTexture name="bg_gif0022" x="0" y="448" width="320" height="224"/>
+	<SubTexture name="bg_gif0023" x="0" y="448" width="320" height="224"/>
+	<SubTexture name="bg_gif0024" x="0" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0025" x="0" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0026" x="0" y="0" width="320" height="224"/>
+	<SubTexture name="bg_gif0027" x="640" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0028" x="640" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0029" x="640" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0030" x="320" y="448" width="320" height="224"/>
+	<SubTexture name="bg_gif0031" x="320" y="448" width="320" height="224"/>
+	<SubTexture name="bg_gif0032" x="320" y="448" width="320" height="224"/>
+	<SubTexture name="bg_gif0033" x="0" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0034" x="0" y="224" width="320" height="224"/>
+	<SubTexture name="bg_gif0035" x="0" y="224" width="320" height="224"/>
+</TextureAtlas>
