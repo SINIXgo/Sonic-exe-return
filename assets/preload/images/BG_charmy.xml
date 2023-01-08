@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_charmy.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charmy bobbing0000" x="9" y="9" width="15" height="21"/>
+	<SubTexture name="charmy bobbing0001" x="45" y="9" width="15" height="21"/>
+	<SubTexture name="charmy bobbing0002" x="81" y="9" width="15" height="21"/>
+	<SubTexture name="charmy bobbing0003" x="9" y="51" width="15" height="21"/>
+	<SubTexture name="charmy bobbing0004" x="45" y="51" width="15" height="21"/>
+	<SubTexture name="charmy bobbing0005" x="81" y="51" width="15" height="21"/>
+</TextureAtlas>

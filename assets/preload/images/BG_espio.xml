@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_espio.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="espio bobbing0000" x="9" y="9" width="39" height="41"/>
+	<SubTexture name="espio bobbing0001" x="69" y="9" width="39" height="41"/>
+	<SubTexture name="espio bobbing0002" x="129" y="9" width="39" height="41"/>
+	<SubTexture name="espio bobbing0003" x="189" y="9" width="39" height="41"/>
+	<SubTexture name="espio bobbing0004" x="9" y="71" width="39" height="41"/>
+	<SubTexture name="espio bobbing0005" x="69" y="71" width="39" height="41"/>
+	<SubTexture name="espio bobbing0006" x="129" y="71" width="39" height="41"/>
+	<SubTexture name="espio bobbing0007" x="189" y="71" width="39" height="41"/>
+	<SubTexture name="espio bobbing0008" x="9" y="133" width="39" height="41"/>
+	<SubTexture name="espio bobbing0009" x="69" y="133" width="39" height="41"/>
+</TextureAtlas>
