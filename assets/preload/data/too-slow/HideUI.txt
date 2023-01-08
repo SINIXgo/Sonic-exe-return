@@ -1,0 +1,8 @@
+function onStepHit()
+	if curStep == 1305 then
+		setProperty('healthBarBG.visible', false);
+	end
+	if curStep == 1433 then
+		setProperty('healthBarBG.visible', true);
+	end
+end
