@@ -1,0 +1,7 @@
+	makeAnimatedLuaSprite('estaticafalsa', 'estaticafalsa', -300, -30);
+	addAnimationByPrefix('estaticafalsa', 'estaticafalsa', 'estaticafalsa', 30, true);
+	objectPlayAnimation('estaticafalsa', 'dance', true);
+	setScrollFactor('estaticafalsa', 0.0, 0.0);
+	scaleObject('estaticafalsa', 5.2, 3.2);
+
+	addLuaSprite('estaticafalsa', true);
