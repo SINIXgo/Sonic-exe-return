@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amy.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="0" y="0" width="680" height="1595" frameX="-6" frameY="-58" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0001" x="680" y="0" width="682" height="1592" frameX="-3" frameY="-61" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0002" x="1362" y="0" width="685" height="1590" frameX="0" frameY="-63" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0003" x="2047" y="0" width="676" height="1598" frameX="-11" frameY="-54" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0004" x="2723" y="0" width="657" height="1620" frameX="-35" frameY="-33" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0005" x="3380" y="0" width="637" height="1637" frameX="-59" frameY="-15" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0006" x="4017" y="0" width="701" height="1652" frameX="-31" frameY="0" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0007" x="4718" y="0" width="703" height="1637" frameX="-42" frameY="-15" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0008" x="5421" y="0" width="808" height="1636" frameX="0" frameY="-16" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0009" x="6229" y="0" width="701" height="1621" frameX="-20" frameY="-31" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0010" x="6930" y="0" width="702" height="1628" frameX="-31" frameY="-24" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0011" x="0" y="1652" width="808" height="1638" frameX="0" frameY="-14" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0012" x="808" y="1652" width="701" height="1640" frameX="-31" frameY="-12" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0013" x="1509" y="1652" width="632" height="1642" frameX="-65" frameY="-10" frameWidth="808" frameHeight="1653"/>
+	<SubTexture name="dance0014" x="1509" y="1652" width="632" height="1642" frameX="-65" frameY="-10" frameWidth="808" frameHeight="1653"/>
+</TextureAtlas>
