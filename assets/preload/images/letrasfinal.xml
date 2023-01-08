@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="letrasfinal.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="letrasfinal0000" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-208" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0001" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-206" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0002" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-202" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0003" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-196" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0004" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-188" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0005" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-178" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0006" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-165" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0007" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-148" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0008" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-127" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0009" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-104" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0010" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-81" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0011" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-61" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0012" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-44" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0013" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-30" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0014" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-18" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0015" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-8" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0016" x="0" y="0" width="1921" height="1081" frameX="0" frameY="0" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0017" x="0" y="0" width="1921" height="1081" frameX="0" frameY="0" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0018" x="0" y="0" width="1921" height="1081" frameX="0" frameY="0" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0019" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-2" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0020" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-13" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0021" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-26" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0022" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-41" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0023" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-57" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0024" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-73" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0025" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-88" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0026" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-102" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0027" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-115" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0028" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-125" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0029" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-133" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0030" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-137" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0031" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-137" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0032" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-133" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0033" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-125" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0034" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-114" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0035" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-102" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0036" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-88" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0037" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-74" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0038" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-60" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0039" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-46" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0040" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-34" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0041" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-23" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0042" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-14" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0043" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-8" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0044" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-7" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0045" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-11" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0046" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-20" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0047" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-31" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0048" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-47" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0049" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-64" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0050" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-84" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0051" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-105" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0052" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-126" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0053" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-147" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0054" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-167" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0055" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-184" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0056" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-198" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0057" x="0" y="0" width="1921" height="1081" frameX="0" frameY="-207" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0058" x="0" y="0" width="1921" height="1081" frameX="-1" frameY="-208" frameWidth="1922" frameHeight="1289"/>
+	<SubTexture name="letrasfinal0059" x="0" y="0" width="1921" height="1081" frameX="-1" frameY="-208" frameWidth="1922" frameHeight="1289"/>
+</TextureAtlas>
