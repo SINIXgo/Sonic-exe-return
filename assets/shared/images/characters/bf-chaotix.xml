@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-chaotix.png"><SubTexture name="bf-chaotix idle0000" x="245" y="714" width="252" height="196" frameX="-1794" frameY="-655" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix idle0001" x="497" y="714" width="245" height="196" frameX="-1801" frameY="-655" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix idle0002" x="721" y="0" width="231" height="203" frameX="-1815" frameY="-648" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix idle0003" x="455" y="483" width="245" height="217" frameX="-1815" frameY="-634" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix idle0004" x="0" y="252" width="252" height="231" frameX="-1815" frameY="-620" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix up0000" x="0" y="0" width="252" height="252" frameX="-1827" frameY="-599" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix up0001" x="252" y="0" width="252" height="245" frameX="-1828" frameY="-606" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix down0000" x="952" y="0" width="238" height="189" frameX="-1793" frameY="-662" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix down0001" x="0" y="714" width="245" height="203" frameX="-1800" frameY="-648" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix left0000" x="252" y="252" width="210" height="231" frameX="-1815" frameY="-620" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix left0001" x="504" y="0" width="217" height="231" frameX="-1815" frameY="-620" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix right0000" x="231" y="483" width="224" height="231" frameX="-1850" frameY="-620" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-chaotix right0001" x="0" y="483" width="231" height="231" frameX="-1843" frameY="-620" frameWidth="2400" frameHeight="1080" />
+</TextureAtlas>

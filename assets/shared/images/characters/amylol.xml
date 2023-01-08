@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amylol.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="255" height="500" frameX="-42" frameY="-12" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="idle0001" x="255" y="0" width="280" height="481" frameX="-30" frameY="-31" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="idle0002" x="535" y="0" width="308" height="462" frameX="-16" frameY="-50" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="idle0003" x="843" y="0" width="339" height="443" frameX="0" frameY="-69" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="idle0004" x="535" y="0" width="308" height="462" frameX="-16" frameY="-50" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="idle0005" x="255" y="0" width="280" height="481" frameX="-30" frameY="-31" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="idle0006" x="0" y="0" width="255" height="500" frameX="-42" frameY="-12" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="idle0007" x="1182" y="0" width="241" height="513" frameX="-49" frameY="0" frameWidth="339" frameHeight="513"/>
+	<SubTexture name="singUP0000" x="1423" y="0" width="348" height="518" frameX="-13" frameY="-30" frameWidth="374" frameHeight="549"/>
+	<SubTexture name="singUP0001" x="1771" y="0" width="339" height="533" frameX="-17" frameY="-15" frameWidth="374" frameHeight="549"/>
+	<SubTexture name="singUP0002" x="2110" y="0" width="326" height="549" frameX="-24" frameY="0" frameWidth="374" frameHeight="549"/>
+	<SubTexture name="singUP0003" x="1771" y="0" width="339" height="533" frameX="-17" frameY="-15" frameWidth="374" frameHeight="549"/>
+	<SubTexture name="singUP0004" x="1423" y="0" width="348" height="518" frameX="-13" frameY="-30" frameWidth="374" frameHeight="549"/>
+	<SubTexture name="singUP0005" x="2436" y="0" width="374" height="509" frameX="0" frameY="-39" frameWidth="374" frameHeight="549"/>
+	<SubTexture name="singUP0006" x="1423" y="0" width="348" height="518" frameX="-13" frameY="-30" frameWidth="374" frameHeight="549"/>
+</TextureAtlas>

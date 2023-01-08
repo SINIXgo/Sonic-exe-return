@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfRUN.png"><SubTexture name="bfRUN idle0000" x="1136" y="465" width="477" height="462" frameX="-939" frameY="-586" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN idle0001" x="0" y="1433" width="551" height="454" frameX="-931" frameY="-586" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN idle0002" x="1687" y="920" width="438" height="458" frameX="-978" frameY="-586" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN idle0003" x="1687" y="0" width="568" height="460" frameX="-899" frameY="-586" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN right0000" x="568" y="1887" width="568" height="412" frameX="-899" frameY="-634" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN right0001" x="2255" y="0" width="439" height="422" frameX="-978" frameY="-622" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN right0002" x="1102" y="1433" width="551" height="435" frameX="-931" frameY="-605" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN right0003" x="0" y="971" width="477" height="462" frameX="-939" frameY="-586" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN up0000" x="0" y="0" width="568" height="493" frameX="-899" frameY="-553" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN up0001" x="0" y="493" width="426" height="478" frameX="-978" frameY="-566" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN up0002" x="1136" y="0" width="551" height="465" frameX="-931" frameY="-575" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN up0003" x="477" y="971" width="477" height="462" frameX="-939" frameY="-586" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN down0000" x="0" y="1887" width="568" height="414" frameX="-899" frameY="-632" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN down0001" x="1653" y="1433" width="444" height="430" frameX="-978" frameY="-614" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN down0002" x="551" y="1433" width="551" height="439" frameX="-931" frameY="-601" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN down0003" x="954" y="971" width="477" height="462" frameX="-939" frameY="-586" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN left0000" x="568" y="0" width="568" height="491" frameX="-899" frameY="-555" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN left0001" x="426" y="493" width="423" height="476" frameX="-978" frameY="-568" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN left0002" x="1687" y="460" width="551" height="460" frameX="-931" frameY="-580" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bfRUN left0003" x="0" y="971" width="477" height="462" frameX="-939" frameY="-586" frameWidth="2400" frameHeight="1080" />
+</TextureAtlas>

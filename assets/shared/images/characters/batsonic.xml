@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="batsonic.png"><SubTexture name="batsonic idle0000" x="0" y="1521" width="492" height="723" frameX="-209" frameY="-170" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic idle0001" x="1984" y="726" width="470" height="703" frameX="-172" frameY="-190" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic idle0002" x="1491" y="1521" width="493" height="710" frameX="-192" frameY="-183" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic idle0003" x="492" y="1521" width="504" height="719" frameX="-202" frameY="-174" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic idle0004" x="0" y="1521" width="492" height="723" frameX="-209" frameY="-170" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic right0000" x="2473" y="0" width="654" height="699" frameX="-209" frameY="-193" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic right0001" x="502" y="789" width="546" height="727" frameX="-206" frameY="-166" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic right0002" x="0" y="789" width="502" height="732" frameX="-204" frameY="-162" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic up0000" x="0" y="0" width="496" height="789" frameX="-233" frameY="-104" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic up0001" x="988" y="0" width="527" height="751" frameX="-216" frameY="-142" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic up0002" x="1048" y="789" width="530" height="726" frameX="-202" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic left0000" x="496" y="0" width="492" height="756" frameX="-124" frameY="-137" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic left0001" x="1515" y="0" width="469" height="740" frameX="-200" frameY="-153" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic left0002" x="996" y="1521" width="495" height="716" frameX="-202" frameY="-177" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic down0000" x="2473" y="1394" width="492" height="690" frameX="-176" frameY="-203" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic down0001" x="2473" y="699" width="476" height="695" frameX="-195" frameY="-198" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="batsonic down0002" x="1984" y="0" width="489" height="726" frameX="-212" frameY="-167" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

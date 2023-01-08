@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf1.png"><SubTexture name="bf1 idle0000" x="729" y="0" width="189" height="215" frameX="-88" frameY="-80" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 idle0001" x="0" y="235" width="213" height="221" frameX="-82" frameY="-75" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 idle0002" x="213" y="235" width="202" height="220" frameX="-88" frameY="-75" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 idle0003" x="535" y="0" width="194" height="218" frameX="-88" frameY="-77" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 idle0004" x="729" y="0" width="189" height="215" frameX="-88" frameY="-80" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 idle0005" x="535" y="218" width="182" height="218" frameX="-78" frameY="-78" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 idle0006" x="0" y="456" width="169" height="218" frameX="-87" frameY="-77" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 idle0007" x="169" y="456" width="181" height="218" frameX="-88" frameY="-77" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 left0000" x="350" y="456" width="196" height="216" frameX="-57" frameY="-80" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 left0001" x="729" y="215" width="185" height="215" frameX="-69" frameY="-81" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 left0002" x="729" y="430" width="175" height="207" frameX="-80" frameY="-89" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 right0000" x="0" y="674" width="222" height="213" frameX="-90" frameY="-83" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 right0001" x="222" y="674" width="218" height="210" frameX="-88" frameY="-86" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 right0002" x="440" y="674" width="203" height="207" frameX="-86" frameY="-89" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 up0000" x="0" y="0" width="172" height="235" frameX="-102" frameY="-62" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 up0001" x="172" y="0" width="178" height="232" frameX="-96" frameY="-65" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 up0002" x="350" y="0" width="185" height="225" frameX="-93" frameY="-72" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 down0000" x="918" y="196" width="189" height="190" frameX="-88" frameY="-105" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 down0001" x="643" y="674" width="189" height="196" frameX="-87" frameY="-100" frameWidth="350" frameHeight="318" />
+<SubTexture name="bf1 down0002" x="918" y="0" width="190" height="196" frameX="-87" frameY="-100" frameWidth="350" frameHeight="318" />
+</TextureAtlas>

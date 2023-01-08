@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-fatal2.png"><SubTexture name="bf-fatal2 idle0000" x="0" y="0" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 idle0001" x="360" y="0" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 idle0002" x="0" y="312" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 idle0003" x="360" y="312" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 idle0004" x="0" y="0" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 left0000" x="720" y="0" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 left0001" x="720" y="312" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 left0002" x="0" y="624" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 down0000" x="360" y="624" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 down0001" x="720" y="624" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 down0002" x="1080" y="0" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 up0000" x="1080" y="312" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 up0001" x="1080" y="624" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 up0002" x="0" y="936" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 right0000" x="360" y="936" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 right0001" x="720" y="936" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="bf-fatal2 right0002" x="1080" y="936" width="360" height="312" frameX="-420" frameY="-540" frameWidth="2400" frameHeight="1080" />
+</TextureAtlas>
