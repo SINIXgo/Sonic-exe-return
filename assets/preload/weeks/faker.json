@@ -1,0 +1,50 @@
+{
+	"storyName": "im sonic, the real sonic",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "faker",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"faker",
+			"faker",
+			[
+				86,
+				0,
+				0
+			]
+		],
+		[
+			"black sun",
+			"exe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"godspeed",
+			"exe-freeplay",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "alt",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "alt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"no hope",
+			"amyd",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tribal",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

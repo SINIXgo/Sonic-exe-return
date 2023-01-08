@@ -1,0 +1,32 @@
+{
+	"storyName": "yea, its a femboy",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "curse",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"malediction",
+			"curse-happy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "femboy wtf",
+	"hiddenUntilUnlocked": false
+}

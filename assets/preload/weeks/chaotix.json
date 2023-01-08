@@ -1,0 +1,41 @@
+{
+	"storyName": "where is tails?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "chaotix",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"my horizon",
+			"chaotix",
+			[
+				255,
+				0,
+				55
+			]
+		],
+		[
+			"our horizon",
+			"chaotix",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

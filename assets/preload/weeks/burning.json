@@ -1,0 +1,31 @@
+{
+	"storyName": "burning in hell",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "burn",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Burning",
+			"dick",
+			[
+				255,
+				60,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "burning in hell"
+}

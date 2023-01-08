@@ -1,0 +1,50 @@
+{
+	"storyName": "a new adventure",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sonicexeencore",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"too slow encore",
+			"sonicexe",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"you cant run encore",
+			"ycr",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"triple trouble encore",
+			"beast",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sonic.xd",
+	"hiddenUntilUnlocked": false
+}

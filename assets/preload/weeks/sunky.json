@@ -1,0 +1,41 @@
+{
+	"storyName": "milk and cereal",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "milk",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"milk",
+			"sunky",
+			[
+				66,
+				193,
+				255
+			]
+		],
+		[
+			"cereal",
+			"sunky",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "sunky forever"
+}

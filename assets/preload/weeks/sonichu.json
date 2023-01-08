@@ -1,0 +1,41 @@
+{
+	"storyName": "for Chris Chan",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "chu",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"shocker",
+			"chu",
+			[
+				255,
+				255,
+				135
+			]
+		],
+		[
+			"reloaded",
+			"chu",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

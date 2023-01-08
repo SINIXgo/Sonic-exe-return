@@ -1,0 +1,41 @@
+{
+	"storyName": "you can feel the sunshine?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tailsdoll",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sunshine",
+			"taildoll",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"soulless",
+			"taildoll",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

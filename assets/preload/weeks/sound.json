@@ -1,0 +1,26 @@
+{
+	"storyName": "sound test",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sound",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"sound test",
+			"sound",
+			[
+				140,
+				60,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Freeplay"
+}

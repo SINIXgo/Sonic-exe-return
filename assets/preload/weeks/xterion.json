@@ -1,0 +1,41 @@
+{
+	"storyName": "oh hello!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "xterion",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"digitalized",
+			"terion",
+			[
+				6,
+				155,
+				0
+			]
+		],
+		[
+			"substantial",
+			"terion",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "hello friend"
+}

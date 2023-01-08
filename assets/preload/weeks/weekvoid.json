@@ -1,0 +1,32 @@
+{
+	"storyName": "it's all empty...",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "hollow",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hollow",
+			"void",
+			[
+				55,
+				15,
+				173
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

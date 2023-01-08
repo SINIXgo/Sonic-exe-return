@@ -1,0 +1,59 @@
+{
+	"storyName": "i gonna catch you",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tooslow",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"too slow",
+			"sonicexe",
+			[
+				66,
+				113,
+				253
+			]
+		],
+		[
+			"you cant run",
+			"ycr",
+			[
+				126,
+				113,
+				253
+			]
+		],
+		[
+			"triple trouble",
+			"beast",
+			[
+				135,
+				113,
+				253
+			]
+		],
+		[
+			"final escape",
+			"xeno",
+			[
+				226,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "amoguuuuus",
+	"hiddenUntilUnlocked": false
+}

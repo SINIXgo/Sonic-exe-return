@@ -1,0 +1,41 @@
+{
+	"storyName": "i love that hedgehog",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "prey",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"prey",
+			"starved",
+			[
+				95,
+				20,
+				0
+			]
+		],
+		[
+			"fight or flight",
+			"starved",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "prey",
+	"hiddenUntilUnlocked": false
+}

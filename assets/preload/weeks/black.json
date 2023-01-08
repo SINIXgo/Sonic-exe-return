@@ -1,0 +1,32 @@
+{
+	"storyName": "sonic",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "blacks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"B4CKSL4SH",
+			"sl4sh-pixel",
+			[
+				186,
+				113,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "eeeem, alguien lee esto?",
+	"hiddenUntilUnlocked": false
+}

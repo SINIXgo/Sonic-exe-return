@@ -1,0 +1,41 @@
+{
+	"storyName": "ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba ba",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "majinencore",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"endless encore",
+			"majin-toon",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"endless og",
+			"majin-toon",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "the fun never ends"
+}

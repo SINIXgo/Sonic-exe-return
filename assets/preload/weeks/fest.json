@@ -1,0 +1,32 @@
+{
+	"storyName": "gotta go fast",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sanic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"too fest",
+			"sanic",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "fest",
+	"hiddenUntilUnlocked": false
+}

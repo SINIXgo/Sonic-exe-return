@@ -1,0 +1,41 @@
+{
+	"storyName": "Infinite Fun At Sega Enterprises!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "majin",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"endless",
+			"majin",
+			[
+				40,
+				0,
+				240
+			]
+		],
+		[
+			"endeavours",
+			"majin-toon",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Endeavours",
+	"hiddenUntilUnlocked": false
+}

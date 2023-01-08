@@ -1,0 +1,58 @@
+{
+	"storyName": "diga bye bye",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "lord",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"execution",
+			"lordx",
+			[
+				96,
+				105,
+				162
+			]
+		],
+		[
+			"Cycles",
+			"lordx",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"hellbent",
+			"lordx",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fate",
+			"lordx",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week X"
+}

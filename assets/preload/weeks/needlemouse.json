@@ -1,0 +1,50 @@
+{
+	"storyName": "hey luther!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "needlemouse",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"round a bout",
+			"needlemouse",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"relax",
+			"needlemouse",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"her world",
+			"luther",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "needle",
+	"hiddenUntilUnlocked": false
+}

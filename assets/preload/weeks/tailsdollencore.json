@@ -1,0 +1,32 @@
+{
+	"storyName": "you can feel?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tailsdollencore",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sunshine encore",
+			"taildoll",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sunshineencore",
+	"hiddenUntilUnlocked": false
+}
