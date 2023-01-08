@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NewTitleMenuBG2.png">
+	
+	
+	<SubTexture name="NewTitleMenuBG210000" x="0" y="0" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210001" x="220" y="0" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210002" x="440" y="0" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210003" x="660" y="0" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210004" x="0" y="124" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210005" x="220" y="124" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210006" x="440" y="124" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210007" x="660" y="124" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210008" x="0" y="248" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210009" x="220" y="248" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210010" x="440" y="248" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210011" x="660" y="248" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210012" x="0" y="372" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210013" x="220" y="372" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210014" x="440" y="372" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210015" x="660" y="372" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210016" x="0" y="496" width="220" height="124" />
+	<SubTexture name="NewTitleMenuBG210017" x="220" y="496" width="220" height="124" />
+</TextureAtlas>
