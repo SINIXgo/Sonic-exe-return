@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="greenhill.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="greenhill0000" x="0" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0001" x="0" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0002" x="0" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0003" x="500" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0004" x="500" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0005" x="500" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0006" x="1000" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0007" x="1000" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0008" x="1000" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0009" x="1500" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0010" x="1500" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0011" x="1500" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0012" x="2000" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0013" x="2000" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0014" x="2000" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0015" x="2500" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0016" x="2500" y="0" width="500" height="347"/>
+	<SubTexture name="greenhill0017" x="2500" y="0" width="500" height="347"/>
+</TextureAtlas>

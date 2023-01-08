@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pista.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pista0000" x="0" y="0" width="7729" height="357" frameX="-2571" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0001" x="0" y="0" width="7729" height="357" frameX="-2528" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0002" x="0" y="0" width="7729" height="357" frameX="-2484" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0003" x="0" y="0" width="7729" height="357" frameX="-2440" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0004" x="0" y="0" width="7729" height="357" frameX="-2397" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0005" x="0" y="0" width="7729" height="357" frameX="-2353" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0006" x="0" y="0" width="7729" height="357" frameX="-2310" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0007" x="0" y="0" width="7729" height="357" frameX="-2266" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0008" x="0" y="0" width="7729" height="357" frameX="-2223" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0009" x="0" y="0" width="7729" height="357" frameX="-2179" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0010" x="0" y="0" width="7729" height="357" frameX="-2135" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0011" x="0" y="0" width="7729" height="357" frameX="-2092" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0012" x="0" y="0" width="7729" height="357" frameX="-2048" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0013" x="0" y="0" width="7729" height="357" frameX="-2005" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0014" x="0" y="0" width="7729" height="357" frameX="-1961" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0015" x="0" y="0" width="7729" height="357" frameX="-1917" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0016" x="0" y="0" width="7729" height="357" frameX="-1874" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0017" x="0" y="0" width="7729" height="357" frameX="-1830" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0018" x="0" y="0" width="7729" height="357" frameX="-1787" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0019" x="0" y="0" width="7729" height="357" frameX="-1743" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0020" x="0" y="0" width="7729" height="357" frameX="-1699" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0021" x="0" y="0" width="7729" height="357" frameX="-1656" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0022" x="0" y="0" width="7729" height="357" frameX="-1612" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0023" x="0" y="0" width="7729" height="357" frameX="-1569" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0024" x="0" y="0" width="7729" height="357" frameX="-1525" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0025" x="0" y="0" width="7729" height="357" frameX="-1482" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0026" x="0" y="0" width="7729" height="357" frameX="-1438" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0027" x="0" y="0" width="7729" height="357" frameX="-1394" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0028" x="0" y="0" width="7729" height="357" frameX="-1351" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0029" x="0" y="0" width="7729" height="357" frameX="-1307" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0030" x="0" y="0" width="7729" height="357" frameX="-1264" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0031" x="0" y="0" width="7729" height="357" frameX="-1220" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0032" x="0" y="0" width="7729" height="357" frameX="-1176" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0033" x="0" y="0" width="7729" height="357" frameX="-1133" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0034" x="0" y="0" width="7729" height="357" frameX="-1089" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0035" x="0" y="0" width="7729" height="357" frameX="-1046" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0036" x="0" y="0" width="7729" height="357" frameX="-1002" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0037" x="0" y="0" width="7729" height="357" frameX="-958" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0038" x="0" y="0" width="7729" height="357" frameX="-915" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0039" x="0" y="0" width="7729" height="357" frameX="-871" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0040" x="0" y="0" width="7729" height="357" frameX="-828" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0041" x="0" y="0" width="7729" height="357" frameX="-784" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0042" x="0" y="0" width="7729" height="357" frameX="-741" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0043" x="0" y="0" width="7729" height="357" frameX="-697" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0044" x="0" y="0" width="7729" height="357" frameX="-653" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0045" x="0" y="0" width="7729" height="357" frameX="-610" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0046" x="0" y="0" width="7729" height="357" frameX="-566" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0047" x="0" y="0" width="7729" height="357" frameX="-523" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0048" x="0" y="0" width="7729" height="357" frameX="-479" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0049" x="0" y="0" width="7729" height="357" frameX="-435" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0050" x="0" y="0" width="7729" height="357" frameX="-392" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0051" x="0" y="0" width="7729" height="357" frameX="-348" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0052" x="0" y="0" width="7729" height="357" frameX="-305" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0053" x="0" y="0" width="7729" height="357" frameX="-261" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0054" x="0" y="0" width="7729" height="357" frameX="-217" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0055" x="0" y="0" width="7729" height="357" frameX="-174" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0056" x="0" y="0" width="7729" height="357" frameX="-130" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0057" x="0" y="0" width="7729" height="357" frameX="-87" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0058" x="0" y="0" width="7729" height="357" frameX="-43" frameY="0" frameWidth="10300" frameHeight="357"/>
+	<SubTexture name="pista0059" x="0" y="0" width="7729" height="357" frameX="0" frameY="0" frameWidth="10300" frameHeight="357"/>
+</TextureAtlas>
