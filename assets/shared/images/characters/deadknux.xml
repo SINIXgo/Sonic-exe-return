@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deadknux.png"><SubTexture name="deadknux idle0000" x="910" y="0" width="403" height="648" frameX="-798" frameY="-155" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux idle0001" x="1387" y="1299" width="448" height="563" frameX="-758" frameY="-241" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux idle0002" x="971" y="1299" width="416" height="598" frameX="-781" frameY="-206" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux idle0003" x="1905" y="638" width="392" height="623" frameX="-800" frameY="-181" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux idle0004" x="910" y="0" width="403" height="648" frameX="-798" frameY="-155" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux up0000" x="0" y="0" width="483" height="653" frameX="-711" frameY="-151" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux up0001" x="604" y="653" width="492" height="642" frameX="-697" frameY="-162" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux up0002" x="0" y="1299" width="500" height="634" frameX="-687" frameY="-170" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux right0000" x="500" y="1299" width="471" height="634" frameX="-834" frameY="-170" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux right0001" x="1905" y="0" width="450" height="638" frameX="-822" frameY="-166" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux right0002" x="483" y="0" width="427" height="652" frameX="-812" frameY="-152" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux left0000" x="0" y="653" width="604" height="646" frameX="-538" frameY="-158" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux left0001" x="1313" y="0" width="592" height="642" frameX="-550" frameY="-162" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux left0002" x="1313" y="642" width="572" height="642" frameX="-573" frameY="-162" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux down0000" x="0" y="1933" width="431" height="538" frameX="-784" frameY="-249" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux down0001" x="2355" y="0" width="418" height="546" frameX="-801" frameY="-241" frameWidth="1835" frameHeight="838" />
+<SubTexture name="deadknux down0002" x="1835" y="1299" width="389" height="552" frameX="-806" frameY="-235" frameWidth="1835" frameHeight="838" />
+</TextureAtlas>

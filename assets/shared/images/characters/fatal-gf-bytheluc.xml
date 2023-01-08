@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fatal-gf-bytheluc.png"><SubTexture name="fatal-gf-bytheluc danceleft0000" x="490" y="0" width="245" height="343" frameX="-1542" frameY="-375" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="fatal-gf-bytheluc danceleft0001" x="735" y="0" width="245" height="339" frameX="-1542" frameY="-379" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="fatal-gf-bytheluc danceleft0002" x="0" y="345" width="245" height="343" frameX="-1542" frameY="-375" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="fatal-gf-bytheluc danceleft0003" x="0" y="0" width="245" height="345" frameX="-1542" frameY="-373" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="fatal-gf-bytheluc danceright0000" x="490" y="0" width="245" height="343" frameX="-1542" frameY="-375" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="fatal-gf-bytheluc danceright0001" x="980" y="0" width="262" height="333" frameX="-1542" frameY="-385" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="fatal-gf-bytheluc danceright0002" x="245" y="345" width="254" height="340" frameX="-1542" frameY="-378" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="fatal-gf-bytheluc danceright0003" x="245" y="0" width="245" height="345" frameX="-1542" frameY="-373" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="fatal-gf-bytheluc danceright0004" x="490" y="0" width="245" height="343" frameX="-1542" frameY="-375" frameWidth="2400" frameHeight="1080" />
+</TextureAtlas>

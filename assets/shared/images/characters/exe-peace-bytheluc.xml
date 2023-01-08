@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exe-peace-bytheluc.png"><SubTexture name="exe-peace-bytheluc idle0000" x="625" y="1194" width="612" height="568" frameX="-395" frameY="-954" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc idle0001" x="1175" y="1764" width="593" height="545" frameX="-443" frameY="-978" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc idle0002" x="1237" y="1194" width="608" height="562" frameX="-419" frameY="-961" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc idle0003" x="1128" y="0" width="606" height="577" frameX="-410" frameY="-946" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc idle0004" x="625" y="1194" width="612" height="568" frameX="-395" frameY="-954" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc right0000" x="1141" y="620" width="578" height="565" frameX="-514" frameY="-958" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc right0001" x="0" y="620" width="568" height="574" frameX="-486" frameY="-949" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc right0002" x="1734" y="0" width="615" height="570" frameX="-395" frameY="-954" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc left0000" x="592" y="1764" width="583" height="551" frameX="-361" frameY="-972" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc left0001" x="568" y="620" width="573" height="574" frameX="-402" frameY="-949" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc left0002" x="0" y="1194" width="625" height="570" frameX="-395" frameY="-954" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc up0000" x="0" y="0" width="560" height="620" frameX="-413" frameY="-903" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc up0001" x="560" y="0" width="568" height="588" frameX="-417" frameY="-935" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc up0002" x="1734" y="570" width="603" height="569" frameX="-395" frameY="-954" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc down0000" x="2349" y="0" width="604" height="516" frameX="-429" frameY="-1007" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc down0001" x="1768" y="1764" width="569" height="537" frameX="-438" frameY="-986" frameWidth="1954" frameHeight="1783" />
+<SubTexture name="exe-peace-bytheluc down0002" x="0" y="1764" width="592" height="556" frameX="-415" frameY="-967" frameWidth="1954" frameHeight="1783" />
+</TextureAtlas>

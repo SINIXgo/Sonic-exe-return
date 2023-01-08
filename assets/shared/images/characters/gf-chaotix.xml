@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf-chaotix.png"><SubTexture name="gf-chaotix danceleft0000" x="0" y="252" width="203" height="238" frameX="-975" frameY="-669" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="gf-chaotix danceleft0001" x="203" y="252" width="203" height="238" frameX="-975" frameY="-669" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="gf-chaotix danceleft0002" x="448" y="0" width="217" height="245" frameX="-968" frameY="-669" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="gf-chaotix danceleft0003" x="0" y="0" width="224" height="252" frameX="-968" frameY="-662" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="gf-chaotix danceright0000" x="406" y="252" width="224" height="238" frameX="-989" frameY="-669" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="gf-chaotix danceright0001" x="665" y="0" width="231" height="238" frameX="-989" frameY="-662" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="gf-chaotix danceright0002" x="224" y="0" width="224" height="252" frameX="-982" frameY="-648" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="gf-chaotix danceright0003" x="0" y="0" width="224" height="252" frameX="-968" frameY="-662" frameWidth="2400" frameHeight="1080" />
+</TextureAtlas>

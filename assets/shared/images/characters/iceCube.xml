@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="iceCube.png">
+<SubTexture name="iceCube idle0000" x="0" y="565" width="360" height="551" frameX="-592" frameY="-391" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube idle0001" x="1473" y="551" width="360" height="547" frameX="-590" frameY="-395" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube idle0002" x="360" y="1116" width="361" height="543" frameX="-585" frameY="-399" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube idle0003" x="721" y="1116" width="361" height="543" frameX="-585" frameY="-399" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube idle0004" x="0" y="1116" width="360" height="547" frameX="-590" frameY="-395" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube idle0005" x="360" y="565" width="360" height="551" frameX="-592" frameY="-391" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube left0000" x="1082" y="1116" width="523" height="501" frameX="-455" frameY="-398" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube left0001" x="1833" y="0" width="562" height="490" frameX="-446" frameY="-398" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube left0002" x="610" y="1663" width="599" height="477" frameX="-439" frameY="-399" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube left0003" x="0" y="1663" width="610" height="478" frameX="-433" frameY="-398" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube down0000" x="1209" y="1663" width="744" height="295" frameX="-552" frameY="-634" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube down0001" x="2395" y="0" width="744" height="284" frameX="-551" frameY="-648" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube down0002" x="2395" y="284" width="744" height="273" frameX="-550" frameY="-661" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube down0003" x="2395" y="557" width="744" height="255" frameX="-550" frameY="-680" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube down0004" x="2395" y="812" width="744" height="216" frameX="-551" frameY="-718" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube up0000" x="720" y="565" width="375" height="551" frameX="-577" frameY="-391" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube up0001" x="742" y="0" width="371" height="555" frameX="-582" frameY="-386" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube up0002" x="375" y="0" width="367" height="561" frameX="-586" frameY="-378" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube up0003" x="0" y="0" width="375" height="565" frameX="-585" frameY="-373" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube right0000" x="1095" y="565" width="360" height="551" frameX="-592" frameY="-391" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube right0001" x="1473" y="0" width="360" height="551" frameX="-597" frameY="-391" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="iceCube right0002" x="1113" y="0" width="360" height="552" frameX="-609" frameY="-390" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

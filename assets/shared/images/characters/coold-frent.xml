@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="coold-frent.png"><SubTexture name="coold-frent idle0000" x="14404" y="2903" width="203" height="734" frameX="-1612" frameY="-1683" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0001" x="13824" y="5652" width="772" height="1861" frameX="-1295" frameY="-1248" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0002" x="12435" y="5652" width="1389" height="2322" frameX="-870" frameY="-949" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0003" x="12435" y="2903" width="1969" height="2749" frameX="-684" frameY="-713" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0004" x="0" y="0" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0005" x="2480" y="0" width="2515" height="2903" frameX="-479" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0006" x="4995" y="0" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0007" x="0" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0008" x="2480" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0009" x="2480" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0010" x="4960" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0011" x="2480" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0012" x="2480" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0013" x="2480" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0014" x="7475" y="0" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0015" x="7475" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0016" x="0" y="5806" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0017" x="2480" y="5806" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0018" x="4960" y="5806" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0019" x="7440" y="5806" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0020" x="4960" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0021" x="2480" y="5806" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0022" x="9955" y="0" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0023" x="9955" y="2903" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0024" x="9955" y="5806" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0025" x="0" y="8709" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0026" x="2480" y="8709" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0027" x="4960" y="8709" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0028" x="7440" y="8709" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0029" x="7440" y="8709" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0030" x="9920" y="8709" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0031" x="12435" y="0" width="2480" height="2903" frameX="-491" frameY="-559" frameWidth="3462" frameHeight="3462" />
+<SubTexture name="coold-frent idle0032" x="14404" y="2903" width="203" height="734" frameX="-1612" frameY="-1683" frameWidth="3462" frameHeight="3462" />
+</TextureAtlas>
